@@ -1,6 +1,61 @@
-# Getting Started with Create React App
+# Expense Tracker (MERN)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> Full stack expense tracker.
+
+> Project link: (https://sjk-expense-tracker.herokuapp.com/)
+
+## Usage
+
+```
+config.env file not included for security purposes.
+```
+
+```
+ npm install
+ cd client npm install
+ cd ..
+
+ # Run front and backend
+ npm run dev
+
+ # Backend only
+ npm run server
+
+ # Frontend only
+ npm run client
+
+ # Build client
+ cd client
+ npm run build
+
+ # Prod
+ npm start
+```
+
+## Demo
+
+![alt-text](./expenseTracker.png)
+
+## Tech used
+
+- MongoDB
+- Express
+- React
+- Node
+- React context
+- Github
+- Heroku
+
+## Code Utilization:
+
+- Language Count: ![](https://img.shields.io/github/languages/count/masonkimm/expense-tracker)
+- Top language: ![](https://img.shields.io/github/languages/top/masonkimm/expense-tracker)
+
+## GitHub:
+
+- GitHub link: (https://github.com/masonkimm)
+
+- Github project page link: (https://github.com/masonkimm/expense-tracker)
 
 ## Available Scripts
 
